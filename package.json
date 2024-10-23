@@ -1,0 +1,20 @@
+{
+  "name": "epharma",
+  "version": "1.0.0",
+  "description": "ePharma is a Software as a Service (SaaS) web based application designed for Inventory Management for Pharmacy",
+  "author": {
+    "name": "XyzeEX",
+    "url": "https://github.com/XyzeEX"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XyzeEX/ePharma"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "boxicons": "^2.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
